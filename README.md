@@ -1,5 +1,5 @@
 ### Result
-
+![Screenshot](https://github.com/avneesh-jha/energy_consumption_prediction/blob/main/data/image.png)
 To determine which model is the best, we can compare the evaluation metrics: MAE, MSE, RMSE, and R². Here's a breakdown of each metric and how it relates to model performance:
 
 1. Mean Absolute Error (MAE):
